@@ -7,7 +7,7 @@
   	"tabs",
   	"http://www.vox.com/*",
   	"http://www.cnn.com/*",
-    "http://www.iframe.ly/",
+    "http://*.iframe.ly/",
   	"http://www.nbcnews.com/*",
   	"unlimitedStorage"
 ],
